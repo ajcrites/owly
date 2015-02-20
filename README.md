@@ -1,3 +1,1 @@
-# Owly Andrew
-# Owly Tucker Jones
-
+# Owly Andrew Tucker Jones
